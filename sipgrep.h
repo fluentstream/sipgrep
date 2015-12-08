@@ -10,11 +10,11 @@
  *
  * Copyright (c) 2006  Jordan Ritter <jpr5@darkridge.com>
  *
- * Please refer to the LICENSE file for more information.
+ * Please refer to the COPYING file for more information.
  *
  */
 
-#define VERSION "2.1.0-dev"
+#define VERSION "2.1.0"
 
 /*
  * We cache the standard frame sizes here to save us time and

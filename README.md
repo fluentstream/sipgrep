@@ -1,3 +1,5 @@
+![Build-Status](https://travis-ci.org/sipcapture/sipgrep.svg)
+
 SipGrep 2
 =======
 
@@ -19,6 +21,9 @@ On CentOS/RHEL: `yum install libpcap-devel pcre-devel`
 
 ## Installation
 
+### Debian
+Sipgrep is available as [Debian package](https://ftp-master.debian.org/new/sipgrep_2.1.0-1.html) (Thanks @linuxmaniac)
+
 ### Clone from GIT:
 
 ```
@@ -30,7 +35,7 @@ git clone https://github.com/sipcapture/sipgrep.git
 
 ```
 cd sipgrep
-./build.sh
+./build.sh (optional)
 ./configure
 make && make install
 ```
