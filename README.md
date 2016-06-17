@@ -1,4 +1,4 @@
-![Build-Status](https://travis-ci.org/sipcapture/sipgrep.svg)
+[![Build Status](https://travis-ci.org/sipcapture/sipgrep.svg?branch=master)](https://travis-ci.org/sipcapture/sipgrep)
 
 SipGrep 2
 =======
@@ -202,6 +202,6 @@ REASON: 407
 
 ## License
 
-Copyright (c) 2014-2015 Alexandr Dubovikov
+Copyright (c) 2014-2016 Alexandr Dubovikov
 
 sipgrep is released under GNU GPL v3. See [COPYING](COPYING) for details.
